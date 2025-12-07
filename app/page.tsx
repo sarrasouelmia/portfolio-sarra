@@ -84,7 +84,7 @@ export default function Home() {
 
           <div className="flex gap-4 pt-2">
             <a
-              href="/CV_Sarra_Soualmia.pdf"
+              href="/CV_Sarra_soualmia.pdf"
               download
               className="px-6 py-3 rounded-md bg-black text-white text-sm font-medium hover:bg-gray-800 transition"
             >
