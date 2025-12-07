@@ -253,8 +253,7 @@ export default function Home() {
                 📧 sarahsouelmia@gmail.com
               </a>
               <a
-                href="https://www.linkedin.com/in/sarra-souelmia-a80807279/
-"
+                href="https://www.linkedin.com/in/sarra-souelmia-a80807279/"
                 target="_blank"
                 className="block text-blue-600"
               >
