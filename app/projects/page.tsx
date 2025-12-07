@@ -77,7 +77,7 @@ const projects: Project[] = [
       "Tableau de bord admin avec suivi des commandes",
       "API RESTful pour la gestion des ressources",
     ],
-    images: ["/projects/SmartMarket/marcket.png"],
+    images: ["/projects/SmartMarket/Marcket.png"],
   },
   {
     title: "Application de réservation de salles",
